@@ -15,6 +15,17 @@ I also struggled on the github side after creating the repository, and running t
 
 For _Assignment 2_ modifying the bash profile to create the alias and environmental variable was no trouble. Uploading the screenshots was relatively easy and I did not face conflicts or error messages during the git add / commit / push.   At this time I decided it was a good time to break (it was Sunday night). 
 
+__ASSIGNMENT 2 IMAGES BELOW:__
+
+Below is the SnapShot of my __bash profile__ file:
+
+![Alt text](snapshots/bash_profile_snapshot.png)
+
+And following is the snapshot of the alias __pui2017__ in action.
+![Alt text](snapshots/pui2017_alias_snapshot.png)
+
+Continuing now on to _Assignment 3:_
+
 On Tuesday evening a subset of us met again to continue work on _Assignment 3_ the extra credit. I am to the point that the code is working, but I need to upload to github, as well as pull Federica's file, in order to submit as requested and not just the code lines.  I will update this README file when that part is done.
 
 On Wednesday evening I received feedback from the TA that my folder structure for this particular README and _Assignment 2_ was not correct so I came to fix that before completing the EC.
