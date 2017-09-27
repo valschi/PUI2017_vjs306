@@ -7,7 +7,7 @@ On Sunday September 24th: Davey and I met again and this time with Tarek and Imr
 
 ___ASSIGNMENT 1___
 
-Saturday we met to work on he Assignments. At the beginning I had a hard time catching up, I was able to understand the assignment but struggled on how to begin. Matt got ahead with the actual lines for getting the url, as well as navigating through it.
+Saturday we met to work on the Assignments. At the beginning I had a hard time catching up, I was able to understand the assignment but struggled on how to begin. Matt got ahead with the actual lines for getting the url, as well as navigating through it.
 
 At that moment I went back to the class notes in which I saw where Matt was getting the lines and format from.
 
@@ -44,3 +44,19 @@ __IMPORTANT NOTE:__
   a. I discovered this the hard way, on Sunday, when running my script locally I got an error that Pandas was not installed. Actually while "fixing" it I ended up breaking things more to even numpy was not running. I just installed python again following Mohit's directions and was able to continue.
 
   ___ASSIGNMENT 3___
+
+On Sunday with Davey we were able to navigate throught the Data Facility, it was frustrating because the Data Catalog was, and still is, down, but Davey found that clicking on the Urban Profiler we could find some DataSets. Together we made sense of the structure, for example _/projects/open/NYCOpenData/nycopendata/data/8hkx-uppz/1414245842/8hkx-uppz_. 
+
+Monday I worked on Assignment 3. Davey and I went to the TA hours and while we were there he was having trouble with his environmental variables but I was able to get some code to work. I got a plot that complied with the assignment but didnot produce anything meaningful whatsoever (Monday I worked on Assignment 3. Davey and I went to the TA hours and while we were there he was having trouble with his environmental variables but I was able to get some code to work. I got a plot that complied with the assignment but didnot produce anything meaningful whatsoever (Projected Population 2010-2040 - Total By Age Groups).  I spent then about 40 minutes trying to find a dataset that had more useful information. And that is how I got _New Housing Units per District_
+
+On Wednesday I will work on the Extra Credit if I get a time to complete but I want to have the Assignment 3 uploaded. 
+
+Valeria
+
+
+
+
+
+
+
+
