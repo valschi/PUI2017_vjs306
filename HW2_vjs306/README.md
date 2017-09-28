@@ -5,6 +5,8 @@ Team: Davey, Matt, Srikanth, Valeria
 
 On Sunday September 24th: Davey and I met again and this time with Tarek and Imran.
 
+On Wednesday: Imran, Srikanth and I met again. (This time John was also in the room but separate table)
+
 ___ASSIGNMENT 1___
 
 Saturday we met to work on the Assignments. At the beginning I had a hard time catching up, I was able to understand the assignment but struggled on how to begin. Matt got ahead with the actual lines for getting the url, as well as navigating through it.
@@ -50,6 +52,16 @@ On Sunday with Davey we were able to navigate throught the Data Facility, it was
 Monday I worked on Assignment 3. Davey and I went to the TA hours and while we were there he was having trouble with his environmental variables but I was able to get some code to work. I got a plot that complied with the assignment but didnot produce anything meaningful whatsoever (Monday I worked on Assignment 3. Davey and I went to the TA hours and while we were there he was having trouble with his environmental variables but I was able to get some code to work. I got a plot that complied with the assignment but didnot produce anything meaningful whatsoever (Projected Population 2010-2040 - Total By Age Groups).  I spent then about 40 minutes trying to find a dataset that had more useful information. And that is how I got _New Housing Units per District_
 
 On Wednesday I will work on the Extra Credit if I get a time to complete but I want to have the Assignment 3 uploaded. 
+
+___Extra Credit___
+
+I probably did not choose the best dataset to begin with, but for the sake of practicing I stick to it, at first when I tried to plot using the same code as for Assignment three I got an error with the name of my X variable (License Expiration Date) googling I found that I had to convert the date using pd.to_datetime . Yet my plot was still giving a long error wiht my X variable.  Srikanth confirmed to_datetime was correct, he found another way of plotting using set_index but I wanted to avoid using it. I spent a lot of time and reviewed my code, when I removed the plot.scatter then it worked.
+
+I wanted to use scatter but instead, and following what we did in HW1 I used style "." while plotting. 
+
+The caption method I used before didnt work, I think because the X axis has dates, so I just used a MarkDown cell.  I wish I could have time to find a more meaningful dataset. 
+
+Off now. 
 
 Valeria
 
