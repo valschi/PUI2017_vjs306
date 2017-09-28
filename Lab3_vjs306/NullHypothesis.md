@@ -15,18 +15,8 @@ as the average IQ of childrens whose mothers do not smoke.
 HA: The average IQ for children whose mothers smoke at least 5 cigarretes a day is lower than the average 
 IQ of childrens whose mothers do not smoke. 
 
-__Food deserts contribute to the incidence of diabetes Food deserts are defined as parts of the country 
-vapid of fresh fruit, vegetables, and other healthful whole foods, usually found in impoverished areas. 
-This is largely due to a lack of grocery stores, farmers' markets, and healthy food providers.__
+__Food deserts contribute to the incidence of diabetes.
+___Food deserts are defined as parts of the country vapid of fresh fruit, vegetables, and other healthful whole foods, usually found in impoverished areas. This is largely due to a lack of grocery stores, farmers' markets, and healthy food providers.___
 
 This is not a lab experiment, but you have data on the incidence of diabetes for the US population.
 
-
-
-Testable Hypothesis: Doing diet reduces more body fat percentage than exercise. 
-
-QUESTION: does proximity to violence
-affect children’s development?
-HYPOTHESIS: the reading test score of
-children who live near the site of a violent
-crime is lower after the crime occurred 
