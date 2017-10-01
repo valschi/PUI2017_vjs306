@@ -14,5 +14,4 @@ _Next_ I used the '?' for each of the distributions to understand what are the i
 
 During Saturday we were not able to find a 5th distribution, but on Sunday Matt found that Gumbel distribution uses basic math. I wanted to calculate the euler constant using a particular formula or python function, but in the essence of time we just copied the value. 
 
-
-
+For the histogram of all of the 500 samples (100 per distribution) we can see most of the samples concentrate (in a Gaussian way) to the mean of the population. Which is what we wanted to prove all along
