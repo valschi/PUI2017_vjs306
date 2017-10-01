@@ -12,6 +12,7 @@ Since we were going to be using random samples we set a seed and agreed to the s
 
 _Next_ I used the '?' for each of the distributions to understand what are the input values that each of the distributions was expecting, and Wikipedia also served to confirm the same.   In the chi square example provided it is mentioned that the degrees of freedom is the same as the mean ... _luckily_, when trying to find the 5th distribution this made sense.. _luckily_
 
-During Saturday we were not able to find a 5th distribution, but on Sunday Matt found that Gumbel distribution uses basic math.
+During Saturday we were not able to find a 5th distribution, but on Sunday Matt found that Gumbel distribution uses basic math. I wanted to calculate the euler constant using a particular formula or python function, but in the essence of time we just copied the value. 
+
 
 
