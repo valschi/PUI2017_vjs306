@@ -25,6 +25,7 @@ We agreed on the Hypothesis and Null Hypothesis to be around the Idea of womer r
 On Monday we met with Matt and Kent to work on Assignment 2. Displaying the tables and the columns I wanted was easy as it was the same as last week, but I had trouble keeping up and fully understanding how to extract the data. Specifically: 
 
 fem_count = (cBdata['age'][cBdata['gender'] == 2].groupby(cBdata['age']).count())/gen_count[2]
+
 male_count = (cBdata['age'][cBdata['gender'] == 1].groupby(cBdata['age']).count())/gen_count[1]
 
 it is the same logic used later to get the average.  This was not easy for me to understand from what Matt and Kent were doing.  I understand the purpose of it, by looking at the outcome it is displaying the normalized number of riders per age. 
