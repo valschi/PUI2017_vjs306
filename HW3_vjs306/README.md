@@ -16,4 +16,4 @@ With Matt and Kent we agreed on the Hypothesis and Null Hypothesis to be around 
 
 __Assignment 3.__
 
-I was able to get the data and the Z-test during the class, so for the Homework I just worked on formulating in spelling out the Hypothesis and also in the proper Meth formula.
+I was able to get the data and the Z-test during the class, working with Srikanth, so for the Homework I just worked on formally spelling out the Hypothesis.
