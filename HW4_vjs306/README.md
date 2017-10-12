@@ -2,7 +2,9 @@
 Assignment 2:
 
 I worked with Kent and Alex on this one.  We each took 1 statistical analysis, found an article and discussed. In my case it was the Chi squared
-
+ **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+Multivariate Regression	| 3, precipitation, wind speed, relative humidity | Ordinal | 1, Vegetative Coverage| Ordinal | Soil profile, sunshine hours, minimum temp, max temp | Categorical | Do climate factors effect vegetation coverage in Northwest China? | vegetation coverage in areas with higher precipitation <= vegetation coverage in areas with lower precipitation | 0.05 | [Trend Patterns of Vegetative Coverage and Their Underlying Causes in the Deserts of Northwest China over 1982 – 2008](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126044) |
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
