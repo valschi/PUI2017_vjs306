@@ -31,3 +31,9 @@ I worked with Srikanth on this one. We formulated the null hypothesis for the co
 Following the tables was relatively easy. Most of the time was spend understanding the H0 and HA. 
 
 It was reassuring to see that we got the same results. And also that Z test and ChiSquare both rejected our Null Hypothesis
+
+
+Assignment 4:
+This was the Assignment I started first, with Matt, Davey and Charlie. The mechanical part (python) was relatively easy, what I struggled and spent a lot of time on was on understanding the Statistics behind it. I noticed the same for several of the classmates but they did a much better job in moving on while I kept fixating on furhter understanding. This was also detrimental for me to submit earlier. Another lesson learned. And more so I still want to understand better the statistics. 
+
+
