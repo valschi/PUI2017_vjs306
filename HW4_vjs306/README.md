@@ -35,6 +35,9 @@ It was reassuring to see that we got the same results. And also that Z test and 
 
 
 Assignment 4:
-This was the Assignment I started first, with Matt, Davey and Charlie. The mechanical part (python) was relatively easy, what I struggled and spent a lot of time on was on understanding the Statistics behind it. I noticed the same for several of the classmates but they did a much better job in moving on while I kept fixating on furhter understanding. This was also detrimental for me to submit earlier. Another lesson learned. And more so I still want to understand better the statistics. 
+This was the Assignment I started first, with Matt, Davey and Charlie. The mechanical part (python) was relatively easy for the first section, what I struggled and spent a lot of time on was on understanding the Statistics behind it. On the coding I found out how to get the specific hour and determine in a condition if above or below a threshold it was night or day.
 
+On the statistics I noticed the same for several of the classmates but they did a much better job in moving on while I kept fixating on furhter understanding. This was also detrimental for me to submit earlier. Another lesson learned. And more so I still want to understand better the statistics. 
+
+Finally to determine the borough I found that geopy has a reverse function tand using it and reading from a dictionary I could determine the borough. However, in essence of time I kept the team's, specifically Matt, structure and code to use coordinate thresholds.
 
