@@ -3,7 +3,8 @@ LESSON LEARNED: Never again last minute.
 
 Assignment 1:  Given that this was 'the easiest' I left it to the very last, unfortunately that was when github was down so I couldn't complete. After I was able to assess my peer's HO and HA I did find he did not construct them properly. Rather than being the complement of one another they were the same but with different words. (ie. saying from a binary outcome that is equal to 0 , and then saying it is not 1, they are stating the same. 
 
-
+My comments and review were pushed to the original github directory:
+PUI2017_grv232/HW3_grv232/CitibikeReview_vjs306.md
 
 Assignment 2:
 
