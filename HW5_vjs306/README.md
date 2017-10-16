@@ -4,6 +4,7 @@ __Assignment 2__
 For Assignment 2 I worked with Davey. Together we went through the scipy.stats documentation and compared against the skeleton notebook. We then separetely built our Null Hypothesis and compared and discussed.
 
 __Assignment 3__
+
 For Assignment 3 I worked with Matt.
 The most time consuming part was making sure the experiment was reproduceable, by means of accessing the data and storing into PUIdata. I ended up uploading the .csv raw files to my github. 
 
