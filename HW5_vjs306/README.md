@@ -20,5 +20,4 @@ From a python perspective I was able to find how to remove all columns except th
 
 Together we merged the tables and did the initial plots it was actually fun how it was coming together.
 
-For the modeling part Matt and I worked together again, also with Sarah and the other Matt.  Here the code was very similar to what we did in class, and the graphs looked alike, but quite honestly the concept was a bit blurry.
-
+For the modeling part Matt and I worked together again, also with Sarah and the other Matt.  Here the code was very similar to what we did in class, and the graphs looked alike, but quite honestly the concept was a bit blurry. The OLS and WLS need more refinement for them to show more relevant information, as well as I had some work left to do on the influence graph but with limited time I had to find a stop. 
