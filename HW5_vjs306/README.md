@@ -6,7 +6,7 @@ For Assignment 1 I worked with Matt and with Sarah.  Sarah showed us how to fit 
 __Assignment 2__
 For Assignment 2 I worked with Davey for the first portion (reproducing Federica's notebook). Together we went through the scipy.stats documentation and compared against the skeleton notebook. We then separetely built our Null Hypothesis and compared and discussed.
 
-For the second portion of the assignment 2, which consisted of increasing the np for the binomial and the lambda Poisson I worked with Sarah, Marium and Kim.  With Sarah we discussed the expected behavior that we were getting, the tricky part was to get the arrays. For this Vivian and Ash helped during TA hours, as I was overcomplicating things for the Poisson array.
+For the second portion of the assignment 2, which consisted of increasing the np for the binomial and the lambda Poisson I worked with Sarah, Marium and Kim.  With Sarah we discussed the expected behavior that we were getting, the tricky part was to get the arrays. For this Vivian and Ash helped during TA hours, as I was overcomplicating things for the Poisson array. For Chisquare we still saw it together and were able to reproduce similar to the provided code, but I still have my doubts on what is it reflected.
 
 
 __Assignment 3__
