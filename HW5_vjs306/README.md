@@ -11,7 +11,7 @@ For the second portion of the assignment 2, which consisted of increasing the np
 
 __Assignment 3__
 
-For Assignment 3 I worked with Matt.
+For Assignment 3 I worked mainly with Matt and Sarah. 
 The most time consuming part was making sure the experiment was reproduceable, by means of accessing the data and storing into PUIdata. I ended up uploading the .csv raw files to my github just to be safe. 
 
 Working with this data was interesting as it was less abstract than other assignments.
@@ -20,4 +20,6 @@ From a python perspective I was able to find how to remove all columns except th
 
 Together we merged the tables and did the initial plots it was actually fun how it was coming together.
 
-For the modeling part Matt and I worked together again, also with Sarah and the other Matt.  Here the code was very similar to what we did in class, and the graphs looked alike, but quite honestly the concept was a bit blurry. On Wednesday Srikanth also helped me get better on the OLS and WLS.  But still, the OLS and WLS need more refinement for them to show more relevant information, as well as I had some work left to do on the influence graph but with limited time I had to find a stop. 
+For the modeling part Matt and I worked together again, also with Sarah and the other Matt.  Here the code was very similar to what we did in class, and the graphs looked alike, but quite honestly the concept was a bit blurry. 
+
+On Wednesday Srikanth also helped me get better on the OLS and WLS, I had missed to do it per person ans also my scale need a better fit. I didn't have all the time to properly interpret the influence graph.
