@@ -18,9 +18,13 @@ __Assignment 2__
 
 During class we were able to complete Prof. Ho's instructions in Carto. For reference the code that we used..
 
-..
-SELECT CDB_TransformToWebmercator( . 
-      CDB_LatLng(start_station_latitude,start_station_longitude)) as .  
-the_geom_webmercator,  
-      MIN(cartodb_id) as cartodb_id,     
-..
+SELECT CDB_TransformToWebmercator( 
+  			CDB_LatLng(start_station_latitude,start_station_longitude)) as the_geom_webmercator,  
+       MIN(cartodb_id) as cartodb_id,   /* needed to plot, because we are using a set we need a min, if we where using sy, an average, we wouldnt need it*/   
+       AVG(tripduration) as ta  
+FROM citibike  
+WHERE ST_DWithin (CDB_LatLng(start_station_latitude,start_station_longitude)::geography,  
+                  CDB_LatLng(40.7577, -73.9857)::geography,  
+                  500)  
+GROUP BY start_station_id,  
+start_station_latitude, start_station_longitude
