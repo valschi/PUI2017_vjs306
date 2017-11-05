@@ -1,3 +1,5 @@
+__Assignment 1__
+
 For HW7 we worked in a team: Matt, Kent, Tarek and myself
 
 We reviewed the test suggestions we each got from our reviewers, they included Chi-square (for Valeria's and Kent's), Z-test (Matt), and T-test (for Valeria).
@@ -11,3 +13,18 @@ The results allowed us to reject our H0 that there is no difference in the avera
 _Authorea link:_
 
 https://www.authorea.com/users/175471/articles/210788-hw7-working-title#
+
+__Assignment 2__
+
+During class we were able to complete Prof. Ho's instructions in Carto. For reference the code that we used..
+
+SELECT CDB_TransformToWebmercator(
+  			CDB_LatLng(start_station_latitude,start_station_longitude)) as the_geom_webmercator,
+       MIN(cartodb_id) as cartodb_id,   /* needed to plot, because we are using a set we need a min, if we where using sy, an average, we wouldnt need it*/
+       AVG(tripduration) as ta
+FROM citibike
+WHERE ST_DWithin (CDB_LatLng(start_station_latitude,start_station_longitude)::geography,
+                  CDB_LatLng(40.7577, -73.9857)::geography,
+                  500)
+GROUP BY start_station_id,
+start_station_latitude, start_station_longitude
