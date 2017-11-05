@@ -19,8 +19,8 @@ __Assignment 2__
 During class we were able to complete Prof. Ho's instructions in Carto. For reference the code that we used..
 
 ..
-SELECT CDB_TransformToWebmercator(
-      CDB_LatLng(start_station_latitude,start_station_longitude)) as 
-the_geom_webmercator,
-      MIN(cartodb_id) as cartodb_id,   
+SELECT CDB_TransformToWebmercator( . 
+      CDB_LatLng(start_station_latitude,start_station_longitude)) as .  
+the_geom_webmercator,  
+      MIN(cartodb_id) as cartodb_id,     
 ..
