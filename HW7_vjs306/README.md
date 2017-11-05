@@ -7,3 +7,7 @@ After doing some dialogue between the four of us we concluded a T test was a val
 Kent found the scipy test specifically for the two sided T test which receives two arrays as input, so we prepared the data for it. 
 
 The results allowed us to reject our H0 that there is no difference in the average age in male riders vs average age of female riders.
+
+_Authorea link:_
+
+https://www.authorea.com/users/175471/articles/210788-hw7-working-title#
