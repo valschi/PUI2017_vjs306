@@ -11,7 +11,7 @@ The LA Times article was also helpful as it gave me the hint of utilizing the co
 
 Last, but not least, it was interesting to observe an outlier, not necesarily (only) for Cyclists but fatalities in general, the dataset contains the tragic events of 10/31. 
 
-Overall I think exploring more of this datates or related ones could provide useful insight in order to obtain Vision Zero. 
+Overall I think exploring more of this datates or related ones could provide useful insight in order to obtain the Vision Zero goal of no fatalities. 
 
 
 
