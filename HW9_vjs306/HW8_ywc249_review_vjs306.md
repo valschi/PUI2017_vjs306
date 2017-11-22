@@ -20,14 +20,14 @@ __ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on
 __HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?__
 
 - The plot is honestly reproducing the observed data. However, back to the clarity point, it is not clear from the plot itself what represents "a whole", in other words, what would represent a 100% .  
-- The intention is clear, to visually highlight the stations that have more entries (or exits). I just think that having a bit more clarity on the plot could go a long way. 
+- The intention is clear, to visually highlight the stations that have more entries (or exits). 
 
 
 __SUGGESTED IMPROVEMENTS:__
 
 - My main feedback would be to consider the receiver of the plot it will be an external entity who may not think the same way as we do, so what is clear to us will be clear for everyone may be a dangerous assumption.  The concept was there, the esthetic is good, and working a little more on the clarity would improve significantly the over all quality of the plot and the brief study. 
 
-Additionally: there was too much information with the same level of importance in the "caption" section. Not all of these statements served the same purpose, and could've been presented separately.  For example the first 2 bullet points are essential information, whereas the last 3 are supporting info.  This is very minor, but could also have a very positive impact if different emphasis was chosen.
+Additionally: there was too much information with the same level of importance in the "caption" section. Not all of these statements served the same purpose, and could've been presented separately for added clarity.
 
 BR,
 Valeria
