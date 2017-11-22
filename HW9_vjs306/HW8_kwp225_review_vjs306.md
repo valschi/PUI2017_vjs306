@@ -3,7 +3,7 @@ PUI2017_kwp225/HW8_kwp225/README.md
 
 Plot discussed:
 
-!(pop_change_map.png)
+![Alt text](pop_change_map.png)
 
 __CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?__
 
