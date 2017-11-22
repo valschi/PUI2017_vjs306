@@ -3,7 +3,8 @@ Homework review for:
 PUI2017_ywc249/HW8_ywc249/README.md
 
 Plot discussed:
-![](ywc249_plot.png)
+
+![Alt text](ywc249_plot.png)
 
 My first impression was that this was very well presented, I could scroll down and see sections and structure and having the plot at the very top definitely captured my attention. Good tactic, great job! 
 
