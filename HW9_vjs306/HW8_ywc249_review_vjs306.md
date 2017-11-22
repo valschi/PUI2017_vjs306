@@ -5,24 +5,22 @@ Plot discussed:
 
 ![Alt text](ywc249_plot.png)
 
-My first impression was that this was very well presented, I could scroll down and see sections and structure and having the plot at the very top definitely captured my attention. Good tactic, great job! 
-
-
 __CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?__
 
-The plot is initially easy to read but upon a closer look it does get confusing. For example, the first seven stations, from Norwood to 174-175 show all positive numbers, I assume this means "everyone" got in, but "nobody" got out?  Which then leads to the question what is the 100%, quantities should be adding to 100 and it is not very clear what that is. 
-
-On the Figure caption there are few bullet points which cover some of the questions, including the calculation, however the formula does not render properly. 
+- The plot is initially easy to read but upon a closer look it does get confusing. The confusion leads to the question what is the 100%, quantities should be adding to 100 and it is not very clear what that is. 
+- On the Figure caption there are few bullet points which cover some of the questions, including the calculation, however the formula does not render properly. 
 
 
 __ESTHETIC: beautiful is a subjective judgment: you should not judge the plot on the basis of whether you think it is "beautiful", but you should judge whether its esthetic is functional to what it is meant to communicate. Are the colors chosen appropriately? Are the graphical elements used appropriate to represent the quantities being visualized? Are the graphical choices allowing you to focus on the right elements or are they distracting you?__
 
-The graph is very well presented. The colors are easy to understand, it has positives to the right, and negatives to the left, which is a logical association. At a high level it is very easy to see which are the stations on which more people enter and exit, it follows common sense and the outlier is very easy to see and to comprehend. 
+- The graph is very well presented. The colors are easy to understand, it has positives to the right, and negatives to the left, which is a logical association. 
+- At a high level it is very easy to see which are the stations on which more people enter and exit, it follows common sense and the outlier is very easy to see and to comprehend. 
 
 
 __HONESTY: is the plot honestly reproducing the data or is it deforming it, perhaps to emphasize a point?__
 
-The plot is honestly reproducing the observed data. However, back to the clarity point, it is not clear from the plot itself what represents "a whole", in other words, what would represent a 100% .  The intention is clear, to visually highlight the stations that have more entries (or exits). I just think that having a bit more clarity on the plot could go a long way. 
+- The plot is honestly reproducing the observed data. However, back to the clarity point, it is not clear from the plot itself what represents "a whole", in other words, what would represent a 100% .  
+- The intention is clear, to visually highlight the stations that have more entries (or exits). I just think that having a bit more clarity on the plot could go a long way. 
 
 
 __SUGGESTED IMPROVEMENTS:__
