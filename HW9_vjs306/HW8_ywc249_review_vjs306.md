@@ -3,7 +3,7 @@ __PUI2017_ywc249/HW8_ywc249/README.md__
 
 Plot discussed:
 
-![Alt text](ywc249_plot.png)
+![Alt text](HW8.png)
 
 __CLARITY: is the plot easy to read? is it clear or confusing, are the quantities being visualized ambiguous?__
 
