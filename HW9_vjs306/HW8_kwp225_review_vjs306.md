@@ -27,6 +27,7 @@ There are just some improvements that I would suggest:
 - Perhaps the use of blue and red is subjective but in some scenarios red is associated with losses, and here it's an increase.
 - The "blocks" depicted it is not entirely clear to me (other than Central Park) what exactly do they represent, or what was the criteria for the limitation. (This might be as I am not a native New Yorker, but it might be obvious otherwise)
 
-
 BR,
 Valeria
+
+# FBB ok (there are census tracts)
